@@ -1,0 +1,6 @@
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csprojAssemblyReference.cache
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\talitap\source\repos\Core\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfo.cs
